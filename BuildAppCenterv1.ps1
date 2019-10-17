@@ -199,12 +199,7 @@ TH {border-width: 1px; padding: 3px; border-style: solid; border-color: black;}
             5 {
                 Write-Host
                 Write-Host "Exiting script, bye!" -f Green
-                #exit
             }
-           # DEFAULT {
-           #     "Script will be stopped"
-           #     exit
-           # }
         }
     }
 }
