@@ -17,7 +17,7 @@ Script starting with BuildAppCenterv1.ps1 file, use Open with Powershell or Powe
 
 1.
 ```
-  Insert API key: _{insert_ _here_ _your_ _API_ _token}_
+  Insert API key: {insert here your API token}
   Token User: API_token_user
   Applications:
   SomeApp1
@@ -26,7 +26,7 @@ Script starting with BuildAppCenterv1.ps1 file, use Open with Powershell or Powe
 ```
 2.
 ```
-  Insert apllication name for branch list: _{Insert__here__one__of__your__application__name}_
+  Insert apllication name for branch list: {Insert here one of your application name}
   Branches:
   branch1
   branch2
@@ -40,7 +40,7 @@ Script starting with BuildAppCenterv1.ps1 file, use Open with Powershell or Powe
   3 Get status report
   4 Save status report to HTML
   5 Exit script
-  _{Insert__here__number__of__next__step}_
+  {Insert here number of next step}
 ```
 
 1. Will check all branches for build configuration:
